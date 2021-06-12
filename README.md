@@ -2,7 +2,7 @@
 
 > The simplest possible Vue setup in a single HTML file
 
-> This template is Vue 2.0 compatible. For Vue 1.x use this command: `vue init simple#1.0 my-project`
+> This template is Vue 2.0 compatible. For Vue 1.x use this command: `vue init simple#1.0 my-project` abcd
 
 ### Before You Start...
 
